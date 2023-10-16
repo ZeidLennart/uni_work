@@ -6,7 +6,7 @@ int test()
     return 2 * 2 * 2 * 2 * 2 * 2;
 }
 
-void main()
+int main()
 {
     cout << test();
 }
