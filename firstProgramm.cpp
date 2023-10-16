@@ -1,7 +1,12 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int test()
 {
     return 2 * 2 * 2 * 2 * 2 * 2;
+}
+
+void main()
+{
+    cout << test();
 }
