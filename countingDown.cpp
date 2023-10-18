@@ -1,10 +1,7 @@
 #include <iostream>
 using namespace std;
 
-string countDown(string input)
+char countDown(string input)
 {
-    for (char &c : input)
-    {
-        cout << c;
-    }
+    return (input.back());
 }
