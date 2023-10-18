@@ -8,5 +8,20 @@ int test()
 
 int main()
 {
-    cout << test();
+    if (true)
+    {
+        cout << test();
+    }
+    else if (false)
+    {
+    }
+    else
+    {
+    }
+
+    int x = 12;
+    while (x >= 0)
+    {
+        x -= 1;
+    }
 }
