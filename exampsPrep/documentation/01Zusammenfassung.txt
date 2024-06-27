@@ -1,5 +1,6 @@
 // comand for compiling
-// g++ -o name name.cpp
+// g++ -o name name.cpp 
+// -o name handles the naming of the file being created through compiling
 // terminal command for executing file ./name.out
 
 Access specifiers und Vererbungsformen
