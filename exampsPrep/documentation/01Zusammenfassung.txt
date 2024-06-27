@@ -1,0 +1,27 @@
+// comand for compiling
+// g++ -o name name.cpp
+// terminal command for executing file ./name.out
+
+Access specifiers und Vererbungsformen
+    - public
+        - Zugriff von überall
+    - private
+        - Zugriff nur innerhalb der Klasse 
+    - protected 
+        - Zugriff nur innerhalb der Klasse und in abgeleiteten Klassen
+
+    
+static and dynamic binding 
+- static binding: binding of the function call to the function definition happens at compile time
+- dynamic binding: binding of the function call to the function definition happens at runtime
+
+polymorphism
+- Polymorphismus ist die Fähigkeit, Objekte unterschiedlicher Klassen über eine gemeinsame Schnittstelle zu behandeln.
+- Polymorphismus ermöglicht es, dass ein Objekt in verschiedenen Formen oder Typen verwendet werden kann.
+- Polymorphismus ist ein Schlüsselkonzept in der objektorientierten Programmierung.
+- Polymorphismus ermöglicht es, dass ein Objekt in verschiedenen Formen oder Typen verwendet werden kann.
+- Polymorphismus ist ein Schlüsselkonzept in der objektorientierten Programmierung.
+
+
+difference between hiding and overriding
+- 
