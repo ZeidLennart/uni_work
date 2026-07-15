@@ -3,4 +3,4 @@ That's why I'm using the summaries from the Moodle course and going through most
 The main difference is that these are coded examples that allow for hands-on experimentation. Maybe this will help someone. 
 I will continue working on this throughout the next few weeks. 
 
-* Note that the explanations in the code and the code itself are partially generated using GitHub Copilot (which, by the way, is free for students).
+* Note that the explanations in the code and the code itself are partially generated using GitHub Copilot
